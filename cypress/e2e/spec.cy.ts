@@ -4,3 +4,4 @@ describe('Automation Practice', () => {
     cy.contains('Automation Practice').should('be.visible');
   });
 });
+//test
